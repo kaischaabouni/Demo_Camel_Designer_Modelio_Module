@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Requirement View" version="4">
+  <OBJECT>
+    <ID name="Requirement View" mc="Standard.ClassDiagram" uid="eeee1d53-2ae9-4c54-8bb0-b791303d76b5"/>
+    <PID name="Requirement" mc="Standard.Package" uid="cbd687d6-2903-4cf0-9886-b0d97b9db165"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">2</ATT>
+      <ATT name="UiData"><![CDATA[eJztU01P4zAQ/SuW73Vb0i6LFIogQRUiUNQC0p7QJB66Bsfu2i5t/j1O0wLtqlFWQsuFXOIZz3vz4TfhyTKX5AWNFVod0y7rUHIyCEfpE2aOCO5dlLhihsdUmynLNUcpNOMCpgZyhlw4bZh14MQzQ4k5KmcrO9sEDfPJyo4rm5IcnrR5eEvaoYPwxugZGlcQBbnPJaHQcxeDA393D3KO6yLUXEraHoTtDeAv6MQVEulWCwd1Ldgy3rJMG2QVtkF9EdgMOPJNsvOlG+NjwyzXnmKNJLh0cXrha1wdy8NVhSQBW+402q5aqmveoASH3NeyM7er0kVeSk85IlAcDGeRBGvXz0LQf13eD1oHgEetXtbvtX6maaeVHh51g07AD3+k/frRezZ3qfRCJZCi3Klg4oxQUzoY45+5MCuhkHuBi7C9iqrtSku8UJHOZ9oK599kD3UDqui3kNxgyZAIW85y/duLSIR6ts3Dz6axgYUvJ4ECzbYOg9pV2iwPr/CWyZLBb88W4f9Znn9Dfa3qBN8jh3jIktNf5+OHs9Pocjge3V3Hn6OQBov48c3e1fNBC71vLXyJFm5HN58tgr1Xr6jSkOU=]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[Requirement View]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="RequirementDiagram" mc="Infrastructure.Stereotype" uid="5dbece87-4ae8-4675-a28f-0f7991c6a5d4"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="b092e072-1ffe-4436-b00a-c8fe6276cc76"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

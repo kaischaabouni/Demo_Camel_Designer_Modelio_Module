@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Camel Viewpoint" version="4">
+  <OBJECT>
+    <ID name="Camel Viewpoint" mc="Standard.ClassDiagram" uid="6eb38f36-69c8-41fe-b6e0-6e08b111b8d1"/>
+    <PID name="TwoComponentApp" mc="Standard.Package" uid="c27132fe-5090-45e6-98a2-1ffc5b3ae530"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">12</ATT>
+      <ATT name="UiData"><![CDATA[eJztWGtP4kAU/StNv7d0KJQaUYPFZcmiGHRN9hOZdi5YnXbYmUHov98pFNSqtSoq2UDS0Hmd+5hz2ttpHs0jqt0BFyGLD3RkWrp2dNjs+zcQSC0kqkvXZDKBA53xsRkxAjRkJgnxmOPIBBJKxk0hsQxvTaAQQSzFsh2sJnWii0W7vWzrWoRvGB+ujVr6YfOcswlwmWgxjpQtihM2lW0ssRq7wnQKmRPxlFK9ctisrBY8WXohEwr6oxCqRSGIdL4wA8bBXK4t4Z+HRYAJkJWxk7kcwKiklTMFka3UYC7bflf5uLhNb06XKzXbnOcCrSxDKgqeA8USiPIll7fTtEu7S3vSFOGYYE5Mj2Ihsm3RHPBtd2Q7hrMXuEYNjcDwHbAMdbk+Qsh3CSpOvUKTv2I2i3vYB5rz4ELyMB7rh56aSrWrEGYTFsayWVlMKgyKUejGHosmTIRSbckLyCWgvOuQEg4pQi8U8hFL7EKir6g9jWjAoojFq6E7FYmieJbFNK4PEXyg3MHxOOVGtlvIsvYda79qLa43k7/26eRPmb+UWaFvreOLy0HLuxy2u63OoHU6/NHt9bx+rz/IpcBjlPF1+NV6fT+7vlYPuAFQtepgOA3YM2p+UDMwcqtKFEHDxo6LwB9tQA9tmFCWpORaiGJ79FB/nx6uQXGD3yvi56L99Q99pyzvFdQ8+TD5aztyvomcS5qUABTXbDYMgydAx0xZwvE6T5JPoTjiBdItJDPGyStgI0zFa2gSB7dDIYED2wBa6ht9ZidKhLmm2gP2N0qJN1MuRD4Qxen7gu0k6/m2ks3dqXeb1eszkrzn9VLJ/p7L9JOhHFgnavlCchzIB7WWme12zs9uLGEM90VEvnB9TjJ7W1r/2e6H6j9k7QrA96kU1A+Rum1UcarSoF4zXN+3DL+xh2zLJg3Hz3v0HpUO4O805LCFFSAq/vbf+hIQlf7w38xbBOXVuSPorgr8zioQlTvT2N4yEJU+vdgp+HsU/N9Ugq9a7YXxrSjwPzf9eNzmeKZy1MOJsv+Y1uXOVsgSQJg0hUjfpw8Rv0aMb1v1vefPYf6Bvv4Q6pi91p+TwfC45f3qDPq/z9qb5uyLKA/3TDxbZRWeVO3I8GlkuOyff/qTazX0DyKskgc=]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAADcCAIAAAAJPMQyAAAM/UlEQVR4nO3bebCddXnA8WBQCiSYDEkDCKE1IewhyLAkQQSDC4bNmU5bAcPYWhxwYpjgCAqUuASdCHXAyhbEIbZCA62UUkFWp4AQAhLiknFBBxV1xhFXRMfl9DGvcz0k5y7Jc7jnucfPM58/Dufe855zc36/733fey/jWsYYY/puxvX6BRhjjOn+iLsxxvThiLsxxvThiLsxxvThiLsxxvThiLsxxvThiLsxxvThiLsxxvThiLsxxvThDBP3fYzp9ozOyi41vf4nN304w6664ePeaq2HbhnJouy/sY/oLnGnHHGHPHGnnFhR69ev71Izx8zYR3TXSPaRuDOqYkWtXr26e9kcG2Mf0V0j2UfizqgSd8gTd8oRd8gTd8oRd8jrt7j/5jePjxs3brvtXhImT95p4cKj1qz51JYe5PHHV8+YsUdPXv8nPvH+9v+cN2/OFVdc0H7PVVddeOSRB69de0OvXuEoEPdead8+YerUyYsWnfCznz2UP3JPVuyf+W7qz7h/5zt3xe3vfe+eFSuWTpy44wMPXL9FB+lV3H//+yemTdu5/Z5rrrlo7tyD2u+JtXjttcviy/zhD/+v5//aLxBx75X27RO+//17Fyw4/OyzT+vKkTdZsb/97boX9Guxm/o57o1ly86Mt7C5fdtt/3rggXvtvfdfHXfckZH+uOfRR2/cb78ZS5acOn/+wfvvP+O++z7een7cV6++JO6fNWvPo446ZMOG/457Djlkv5tuurT56K23fnTOnH3WrbvpoIP2Pu+8f4xTg333ffnnPnfdSScdE4c966y/G+x5m4ecf/4/xWH32mv6HXdcFXeefPKrt9lmm3i6b3/7zuaBP/3p53fY4S++8Y3/bf7zW9+6Y8cdt48zqfZzjc0Pvvvu077+9dvixo03rnjxi7d99tlH4vall75z8eJTev4GdWtR9t9U2Eebb5+VK5dF3wdbaeHii9+xxx67zJ49KxbYnnvuFvc89NC/xec0Hx24PbBiH3vsP2Lln3rqwqOPPnSIrWE3jc4+Gttx/8pXbhk//kW//vVjcRoyadLEL37xv+LOSy45541vXNDa2PFYAXfeeXXcvuWWy2JltNri/tRTn42HNG/t1Vf/82GHHdC8r81jw1vecvIHP7gkjhlP8eCDq+KeN73puAMOmPncc2t/+cu1EybsEOuj4/M2D7n99ivj9g03rIh1HDfi9CGuhTf5ik455Q3vfe9Zze0PfGDxaacd32rbKh0P/uY3n7Bq1fK48fa3/3285uY7VnwovsCev0EjIe5Ftk+srsjlBRecMdhKi801efJO8aE4TY6V36zJoeO+fv1/RlIjlIMd024azX00tuP+k598Pu555pkHrr9++etfP7+58+c/f3jbbcfHhWF0/KUvnTDw2Ah9rImBuMcl28KFRzUfjRUWx4mjPf30PfH9P27Ew6dMmfTkk5+J1RA3mk+LnXDmmX/b3J45c/oXvrC64/PGQ3ba6Y/P+8QTN0+fvmtrkOUY33iabzkb362/vvvula225djx4Ndd977mNcRFRnwJsYjj9q67To3X3PM3aCTEvVea7RMrMzZFxDTW+TnnnP6rXz062Eq78soLTjzx6ObOaOtI4h4rf/vtt/vd79YNdky7qVv6P+5f/vKn4z2OM4sPf3hpnDLElWMjvkXHN+roeHMt2YjV/LWv3TYQ97jkXLTohPaPNmfxxxxzWLzl99577aGH/uFcPtbWwEEuuujM2A/N7VjWsW46Pm885GUv+8vm0wZud1yOsQ3isvfhh/89DhWrttkVA8ux48HjenPOnH1+/OMHDz/8wG9+8/a4wPzqV/+nueyob82aG8S9wvb5wQ/ui+XU/ChysJW2fPk7Tj/9xOYTHnnkUyOM+267TR3imHbTaO6jsR3397znrccf/6q48clPXnzSScds8vnR8YkTd4z0x+04Q4nH/uhH97efucd72Xzms88+Eh9t/nJg5cplr3vdvMWLT4lrt9Zwce/4vCNfjs2XsGTJqXHY5gK51bYcOx48xEfj+rT5Vdi++748vpB3v/utPX93hhUrcu7cQ8W9VzbZPhde+LaBK9eOK+2KK/505n7rrR9t1mRUftasPZs740x587gPrPzBtobdlDTyfTRW4x4XVpdffl5cr61bd1Nr45nI1KmT48S8tXH9Nb8PiY6PH/+i5hek8dbuv/+MVtvP3OM4cX3anK3HoV75ylc0z/LMMw/Et4S4NHvqqc+2hluOHZ+343KMC714Mb/4xZpNvqh4bBw/LiebV9JqW44dD97a+MuAI46YffPN/9La+PPBefPmNFeglTUr0pl7ke3T2vgbyClTJt111zWDrbTYWbFB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]]></ATT>
+      <ATT name="Name"><![CDATA[Camel Viewpoint]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Deployment View" mc="Standard.ClassDiagram" uid="a7ee205e-67e9-4bc4-a182-b6c73a681ebf"/>
+        <ID name="Requirement View" mc="Standard.ClassDiagram" uid="eeee1d53-2ae9-4c54-8bb0-b791303d76b5"/>
+      </LINK>
+      <LINK relation="Extension">
+        <ID name="CamelViewPoint" mc="Infrastructure.Stereotype" uid="8dc05358-c2cc-45fe-8268-879ca7ae4647"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="e864930f-b6ad-4632-b74b-1e2989eb1d7c"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

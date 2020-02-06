@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model" version="4">
+  <OBJECT>
+    <ID name="Model" mc="Standard.Package" uid="a9fca5df-2219-40fe-9081-b0fc251ad17c"/>
+    <PID name="Module_Demo_CamelDesigner" mc="Standard.Project" uid="8a4c6827-48ee-4e1c-96f3-d474d876a21c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="TwoComponentApp" mc="Standard.Package" uid="c27132fe-5090-45e6-98a2-1ffc5b3ae530"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

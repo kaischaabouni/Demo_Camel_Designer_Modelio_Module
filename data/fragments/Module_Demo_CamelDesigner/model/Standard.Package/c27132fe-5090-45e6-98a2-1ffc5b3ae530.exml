@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TwoComponentApp" version="4">
+  <OBJECT>
+    <ID name="TwoComponentApp" mc="Standard.Package" uid="c27132fe-5090-45e6-98a2-1ffc5b3ae530"/>
+    <PID name="Model" mc="Standard.Package" uid="a9fca5df-2219-40fe-9081-b0fc251ad17c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[TwoComponentApp]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Deployment" mc="Standard.Package" uid="37d0fc45-89ff-48a8-8af0-8c7e801de946"/>
+        <COMPID name="Requirement" mc="Standard.Package" uid="cbd687d6-2903-4cf0-9886-b0d97b9db165"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="CamelModel" mc="Infrastructure.Stereotype" uid="417c94c9-a9fd-40a6-9979-865ebdc2578d"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="Camel Viewpoint" mc="Standard.ClassDiagram" uid="6eb38f36-69c8-41fe-b6e0-6e08b111b8d1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

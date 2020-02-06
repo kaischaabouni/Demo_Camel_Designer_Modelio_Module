@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Module_Demo_CamelDesigner" version="4">
+  <OBJECT>
+    <ID name="Module_Demo_CamelDesigner" mc="Infrastructure.DiagramSet" uid="4bfff195-5385-4d80-9e7e-aea74e1f8703"/>
+    <PID name="Module_Demo_CamelDesigner" mc="Standard.Project" uid="8a4c6827-48ee-4e1c-96f3-d474d876a21c"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Module_Demo_CamelDesigner]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

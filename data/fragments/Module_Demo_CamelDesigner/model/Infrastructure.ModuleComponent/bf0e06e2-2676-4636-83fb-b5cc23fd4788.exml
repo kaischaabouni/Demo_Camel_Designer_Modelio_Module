@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LocalModule" version="4">
+  <OBJECT>
+    <ID name="LocalModule" mc="Infrastructure.ModuleComponent" uid="bf0e06e2-2676-4636-83fb-b5cc23fd4788"/>
+    <ATTRIBUTES>
+      <ATT name="LicenseKey">0</ATT>
+      <ATT name="MajVersion">0</ATT>
+      <ATT name="MinVersion">0</ATT>
+      <ATT name="MinMinVersion"></ATT>
+      <ATT name="MinBinVersionCompatibility"></ATT>
+      <ATT name="JavaClassName"></ATT>
+      <ATT name="Name"><![CDATA[LocalModule]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedProfile">
+        <COMPID name="LocalProfile" mc="Infrastructure.Profile" uid="ec410746-b6fe-4906-bb8a-88b33433a4d5"/>
+        <COMPID name="CamelProfile" mc="Infrastructure.Profile" uid="6f340215-30a1-4818-b9fa-9f2899e0096b"/>
+        <COMPID name="CamelDiagramsProfile" mc="Infrastructure.Profile" uid="4f43f7a3-3fca-497c-b17c-938b4724d7b8"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

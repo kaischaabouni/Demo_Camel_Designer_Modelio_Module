@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DeploymentModel" version="4">
+  <OBJECT>
+    <ID name="DeploymentModel" mc="Infrastructure.Stereotype" uid="e26529ff-894c-4715-b7cb-019d75c64ba2"/>
+    <PID name="CamelProfile" mc="Infrastructure.Profile" uid="6f340215-30a1-4818-b9fa-9f2899e0096b"/>
+    <ATTRIBUTES>
+      <ATT name="Image"><![CDATA[Deployment_Model_V2_48.png]]></ATT>
+      <ATT name="Icon"><![CDATA[Deployment_Model_V2_24.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[DeploymentModel]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.Package]]></ATT>
+      <ATT name="Name"><![CDATA[DeploymentModel]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

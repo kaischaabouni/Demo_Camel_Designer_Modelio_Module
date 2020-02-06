@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="module_demo_cameldesigner" version="4">
+  <OBJECT>
+    <ID name="module_demo_cameldesigner" mc="Standard.Package" uid="67aa048d-cbb3-488a-96de-1e43a366a16e"/>
+    <PID name="Module_Demo_CamelDesigner" mc="Standard.Project" uid="8a4c6827-48ee-4e1c-96f3-d474d876a21c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[module_demo_cameldesigner]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

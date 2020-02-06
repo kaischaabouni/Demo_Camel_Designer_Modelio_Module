@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CamelProfile" version="4">
+  <OBJECT>
+    <ID name="CamelProfile" mc="Infrastructure.Profile" uid="6f340215-30a1-4818-b9fa-9f2899e0096b"/>
+    <PID name="LocalModule" mc="Infrastructure.ModuleComponent" uid="bf0e06e2-2676-4636-83fb-b5cc23fd4788"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[CamelProfile]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="CamelModel" mc="Infrastructure.Stereotype" uid="417c94c9-a9fd-40a6-9979-865ebdc2578d"/>
+        <COMPID name="DeploymentModel" mc="Infrastructure.Stereotype" uid="e26529ff-894c-4715-b7cb-019d75c64ba2"/>
+        <COMPID name="RequirementModel" mc="Infrastructure.Stereotype" uid="a04fbd04-1ece-44e3-b283-c5a1e4cb7b82"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
