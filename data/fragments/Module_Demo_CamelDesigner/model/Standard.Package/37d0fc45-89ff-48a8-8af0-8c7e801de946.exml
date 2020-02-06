@@ -14,12 +14,12 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Component_App" mc="Standard.Class" uid="e4e09daf-409f-4607-ac51-f6c3b36ee870"/>
+        <COMPID name="App_Component1" mc="Standard.Class" uid="e4e09daf-409f-4607-ac51-f6c3b36ee870"/>
         <COMPID name="Class5" mc="Standard.Class" uid="549a8dcd-ee68-4c54-aa64-7f05a70031a8"/>
         <COMPID name="Class6" mc="Standard.Class" uid="f9303cd9-ce98-44b4-beb8-b4e300b73b5b"/>
         <COMPID name="Class7" mc="Standard.Class" uid="21d6bf95-d261-49ba-bf84-a06bd99ee24a"/>
         <COMPID name="Class8" mc="Standard.Class" uid="03f2669f-7d74-4323-bf29-1211596c3319"/>
-        <COMPID name="AppRequirementSet" mc="Standard.Class" uid="8460e672-978d-4b89-aeaa-e4545cc98ea9"/>
+        <COMPID name="App_RequirementSet" mc="Standard.Class" uid="8460e672-978d-4b89-aeaa-e4545cc98ea9"/>
       </COMP>
       <LINK relation="Extension">
         <ID name="DeploymentModel" mc="Infrastructure.Stereotype" uid="e26529ff-894c-4715-b7cb-019d75c64ba2"/>

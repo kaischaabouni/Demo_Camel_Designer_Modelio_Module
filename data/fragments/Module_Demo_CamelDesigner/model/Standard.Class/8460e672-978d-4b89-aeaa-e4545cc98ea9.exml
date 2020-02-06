@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AppRequirementSet" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="App_RequirementSet" version="4">
   <OBJECT>
-    <ID name="AppRequirementSet" mc="Standard.Class" uid="8460e672-978d-4b89-aeaa-e4545cc98ea9"/>
+    <ID name="App_RequirementSet" mc="Standard.Class" uid="8460e672-978d-4b89-aeaa-e4545cc98ea9"/>
     <PID name="Deployment" mc="Standard.Package" uid="37d0fc45-89ff-48a8-8af0-8c7e801de946"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,13 +11,13 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[AppRequirementSet]]></ATT>
+      <ATT name="Name"><![CDATA[App_RequirementSet]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedAttribute">
         <OBJECT>
-          <ID name="Attribute" mc="Standard.Attribute" uid="42d2546e-8563-4611-8394-95624050c2fc"/>
+          <ID name="resource" mc="Standard.Attribute" uid="42d2546e-8563-4611-8394-95624050c2fc"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -31,17 +31,17 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[Attribute]]></ATT>
+            <ATT name="Name"><![CDATA[resource]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="AppReqs" mc="Standard.Class" uid="d160d8c8-bf22-4649-92b6-996c130e501c"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="Attribute1" mc="Standard.Attribute" uid="2805a653-aabf-42b9-b9d8-abbd9491c6c5"/>
+          <ID name="horizontal_scale" mc="Standard.Attribute" uid="c64c68cd-c42a-4875-a05a-6a261e8f01da"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -55,32 +55,12 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[Attribute1]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES></DEPENDENCIES>
-        </OBJECT>
-        <OBJECT>
-          <ID name="Attribute2" mc="Standard.Attribute" uid="c64c68cd-c42a-4875-a05a-6a261e8f01da"/>
-          <ATTRIBUTES>
-            <ATT name="TypeConstraint"></ATT>
-            <ATT name="Value"></ATT>
-            <ATT name="TargetIsClass">false</ATT>
-            <ATT name="Changeable">ReadWrite</ATT>
-            <ATT name="IsDerived">false</ATT>
-            <ATT name="IsOrdered">false</ATT>
-            <ATT name="IsUnique">false</ATT>
-            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
-            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
-            <ATT name="Visibility">Public</ATT>
-            <ATT name="IsClass">false</ATT>
-            <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[Attribute2]]></ATT>
+            <ATT name="Name"><![CDATA[horizontal_scale]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <ID name="HorizontalScaleApp" mc="Standard.Class" uid="1bea1027-0105-4b89-bd29-cf193bc5d415"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>

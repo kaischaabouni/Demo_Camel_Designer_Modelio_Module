@@ -13,6 +13,10 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="AppReqs" mc="Standard.Class" uid="d160d8c8-bf22-4649-92b6-996c130e501c"/>
+        <COMPID name="HorizontalScaleApp" mc="Standard.Class" uid="1bea1027-0105-4b89-bd29-cf193bc5d415"/>
+      </COMP>
       <LINK relation="Extension">
         <ID name="RequirementModel" mc="Infrastructure.Stereotype" uid="a04fbd04-1ece-44e3-b283-c5a1e4cb7b82"/>
       </LINK>

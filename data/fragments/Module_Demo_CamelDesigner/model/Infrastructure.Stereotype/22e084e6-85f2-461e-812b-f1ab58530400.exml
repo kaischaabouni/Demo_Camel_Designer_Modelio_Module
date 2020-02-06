@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="requirementSet" version="4">
+  <OBJECT>
+    <ID name="requirementSet" mc="Infrastructure.Stereotype" uid="22e084e6-85f2-461e-812b-f1ab58530400"/>
+    <PID name="LocalProfile" mc="Infrastructure.Profile" uid="ec410746-b6fe-4906-bb8a-88b33433a4d5"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[requirementSet]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.Association]]></ATT>
+      <ATT name="Name"><![CDATA[requirementSet]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
